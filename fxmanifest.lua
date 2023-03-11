@@ -2,9 +2,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'PLOKMJNB#8692'
+author 'Bigguard#9474'
 description 'A single resource car pack to eliminate the rest'
-repository 'https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack'
+repository 'https://github.com/Bigguardd/BCar_Pack'
 
 files {
     'data/**/*.meta',
